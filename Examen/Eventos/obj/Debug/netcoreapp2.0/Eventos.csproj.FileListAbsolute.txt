@@ -1,0 +1,10 @@
+D:\programacionIIIcmb\unidad1\delegados y eventos\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.deps.json
+D:\programacionIIIcmb\unidad1\delegados y eventos\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.runtimeconfig.json
+D:\programacionIIIcmb\unidad1\delegados y eventos\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.runtimeconfig.dev.json
+D:\programacionIIIcmb\unidad1\delegados y eventos\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.dll
+D:\programacionIIIcmb\unidad1\delegados y eventos\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.pdb
+D:\programacionIIIcmb\unidad1\delegados y eventos\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.csprojAssemblyReference.cache
+D:\programacionIIIcmb\unidad1\delegados y eventos\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.AssemblyInfoInputs.cache
+D:\programacionIIIcmb\unidad1\delegados y eventos\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.AssemblyInfo.cs
+D:\programacionIIIcmb\unidad1\delegados y eventos\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.dll
+D:\programacionIIIcmb\unidad1\delegados y eventos\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.pdb
