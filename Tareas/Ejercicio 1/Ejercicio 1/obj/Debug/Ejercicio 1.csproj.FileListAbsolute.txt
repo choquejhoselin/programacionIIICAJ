@@ -1,0 +1,7 @@
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csprojAssemblyReference.cache
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
