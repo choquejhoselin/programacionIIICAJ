@@ -1,0 +1,7 @@
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\piladelibros\piladelibros\bin\Debug\piladelibros.exe.config
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\piladelibros\piladelibros\bin\Debug\piladelibros.exe
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\piladelibros\piladelibros\bin\Debug\piladelibros.pdb
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\piladelibros\piladelibros\obj\Debug\piladelibros.csprojAssemblyReference.cache
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\piladelibros\piladelibros\obj\Debug\piladelibros.csproj.CoreCompileInputs.cache
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\piladelibros\piladelibros\obj\Debug\piladelibros.exe
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\piladelibros\piladelibros\obj\Debug\piladelibros.pdb

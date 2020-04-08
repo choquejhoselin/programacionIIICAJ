@@ -1,0 +1,7 @@
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\Tarea.Arbol\Tarea.Arbol\bin\Debug\Tarea.Arbol.exe.config
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\Tarea.Arbol\Tarea.Arbol\bin\Debug\Tarea.Arbol.exe
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\Tarea.Arbol\Tarea.Arbol\bin\Debug\Tarea.Arbol.pdb
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\Tarea.Arbol\Tarea.Arbol\obj\Debug\Tarea.Arbol.csprojAssemblyReference.cache
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\Tarea.Arbol\Tarea.Arbol\obj\Debug\Tarea.Arbol.csproj.CoreCompileInputs.cache
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\Tarea.Arbol\Tarea.Arbol\obj\Debug\Tarea.Arbol.exe
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\Tarea.Arbol\Tarea.Arbol\obj\Debug\Tarea.Arbol.pdb

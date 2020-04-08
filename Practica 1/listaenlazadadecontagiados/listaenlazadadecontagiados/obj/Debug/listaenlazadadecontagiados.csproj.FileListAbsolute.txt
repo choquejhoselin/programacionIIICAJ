@@ -1,0 +1,7 @@
+H:\Repositorio de Programacion\programacionIIICAJ\Practica 1\listaenlazadadecontagiados\listaenlazadadecontagiados\obj\Debug\listaenlazadadecontagiados.csprojAssemblyReference.cache
+H:\Repositorio de Programacion\programacionIIICAJ\Practica 1\listaenlazadadecontagiados\listaenlazadadecontagiados\obj\Debug\listaenlazadadecontagiados.csproj.CoreCompileInputs.cache
+H:\Repositorio de Programacion\programacionIIICAJ\Practica 1\listaenlazadadecontagiados\listaenlazadadecontagiados\bin\Debug\listaenlazadadecontagiados.exe.config
+H:\Repositorio de Programacion\programacionIIICAJ\Practica 1\listaenlazadadecontagiados\listaenlazadadecontagiados\bin\Debug\listaenlazadadecontagiados.exe
+H:\Repositorio de Programacion\programacionIIICAJ\Practica 1\listaenlazadadecontagiados\listaenlazadadecontagiados\bin\Debug\listaenlazadadecontagiados.pdb
+H:\Repositorio de Programacion\programacionIIICAJ\Practica 1\listaenlazadadecontagiados\listaenlazadadecontagiados\obj\Debug\listaenlazadadecontagiados.exe
+H:\Repositorio de Programacion\programacionIIICAJ\Practica 1\listaenlazadadecontagiados\listaenlazadadecontagiados\obj\Debug\listaenlazadadecontagiados.pdb

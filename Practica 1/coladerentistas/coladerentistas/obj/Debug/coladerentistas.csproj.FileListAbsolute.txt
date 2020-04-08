@@ -1,0 +1,7 @@
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\coladerentistas\coladerentistas\bin\Debug\coladerentistas.exe.config
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\coladerentistas\coladerentistas\bin\Debug\coladerentistas.exe
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\coladerentistas\coladerentistas\bin\Debug\coladerentistas.pdb
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\coladerentistas\coladerentistas\obj\Debug\coladerentistas.csprojAssemblyReference.cache
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\coladerentistas\coladerentistas\obj\Debug\coladerentistas.csproj.CoreCompileInputs.cache
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\coladerentistas\coladerentistas\obj\Debug\coladerentistas.exe
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\coladerentistas\coladerentistas\obj\Debug\coladerentistas.pdb
