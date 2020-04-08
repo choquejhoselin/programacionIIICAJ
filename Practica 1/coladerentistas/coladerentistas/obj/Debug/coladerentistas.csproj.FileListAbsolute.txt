@@ -5,3 +5,10 @@ H:\Repositorio de Programacion\programacionIIICAJ\Tareas\coladerentistas\colader
 H:\Repositorio de Programacion\programacionIIICAJ\Tareas\coladerentistas\coladerentistas\obj\Debug\coladerentistas.csproj.CoreCompileInputs.cache
 H:\Repositorio de Programacion\programacionIIICAJ\Tareas\coladerentistas\coladerentistas\obj\Debug\coladerentistas.exe
 H:\Repositorio de Programacion\programacionIIICAJ\Tareas\coladerentistas\coladerentistas\obj\Debug\coladerentistas.pdb
+H:\Repositorio de Programacion\programacionIIICAJ\Practica 1\coladerentistas\coladerentistas\bin\Debug\coladerentistas.exe.config
+H:\Repositorio de Programacion\programacionIIICAJ\Practica 1\coladerentistas\coladerentistas\bin\Debug\coladerentistas.exe
+H:\Repositorio de Programacion\programacionIIICAJ\Practica 1\coladerentistas\coladerentistas\bin\Debug\coladerentistas.pdb
+H:\Repositorio de Programacion\programacionIIICAJ\Practica 1\coladerentistas\coladerentistas\obj\Debug\coladerentistas.csprojAssemblyReference.cache
+H:\Repositorio de Programacion\programacionIIICAJ\Practica 1\coladerentistas\coladerentistas\obj\Debug\coladerentistas.csproj.CoreCompileInputs.cache
+H:\Repositorio de Programacion\programacionIIICAJ\Practica 1\coladerentistas\coladerentistas\obj\Debug\coladerentistas.exe
+H:\Repositorio de Programacion\programacionIIICAJ\Practica 1\coladerentistas\coladerentistas\obj\Debug\coladerentistas.pdb
