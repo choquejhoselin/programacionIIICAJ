@@ -1,0 +1,7 @@
+C:\Users\Terra\programacionIIItcd\tareas\PROTOTIPO\PROTOTIPO\bin\Debug\PROTOTIPO.exe.config
+C:\Users\Terra\programacionIIItcd\tareas\PROTOTIPO\PROTOTIPO\bin\Debug\PROTOTIPO.exe
+C:\Users\Terra\programacionIIItcd\tareas\PROTOTIPO\PROTOTIPO\bin\Debug\PROTOTIPO.pdb
+C:\Users\Terra\programacionIIItcd\tareas\PROTOTIPO\PROTOTIPO\obj\Debug\PROTOTIPO.csprojAssemblyReference.cache
+C:\Users\Terra\programacionIIItcd\tareas\PROTOTIPO\PROTOTIPO\obj\Debug\PROTOTIPO.csproj.CoreCompileInputs.cache
+C:\Users\Terra\programacionIIItcd\tareas\PROTOTIPO\PROTOTIPO\obj\Debug\PROTOTIPO.exe
+C:\Users\Terra\programacionIIItcd\tareas\PROTOTIPO\PROTOTIPO\obj\Debug\PROTOTIPO.pdb
