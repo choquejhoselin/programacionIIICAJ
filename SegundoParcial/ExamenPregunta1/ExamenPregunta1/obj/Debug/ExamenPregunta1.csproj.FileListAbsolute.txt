@@ -1,0 +1,2 @@
+H:\PrograI\ExamenPregunta1\ExamenPregunta1\obj\Debug\ExamenPregunta1.csprojAssemblyReference.cache
+H:\PrograI\ExamenPregunta1\ExamenPregunta1\obj\Debug\ExamenPregunta1.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+H:\PrograI\Pregunta3Examennn\Pregunta3Examennn\bin\Debug\Pregunta3Examennn.exe.config
+H:\PrograI\Pregunta3Examennn\Pregunta3Examennn\bin\Debug\Pregunta3Examennn.exe
+H:\PrograI\Pregunta3Examennn\Pregunta3Examennn\bin\Debug\Pregunta3Examennn.pdb
+H:\PrograI\Pregunta3Examennn\Pregunta3Examennn\obj\Debug\Pregunta3Examennn.csprojAssemblyReference.cache
+H:\PrograI\Pregunta3Examennn\Pregunta3Examennn\obj\Debug\Pregunta3Examennn.csproj.CoreCompileInputs.cache
+H:\PrograI\Pregunta3Examennn\Pregunta3Examennn\obj\Debug\Pregunta3Examennn.exe
+H:\PrograI\Pregunta3Examennn\Pregunta3Examennn\obj\Debug\Pregunta3Examennn.pdb
