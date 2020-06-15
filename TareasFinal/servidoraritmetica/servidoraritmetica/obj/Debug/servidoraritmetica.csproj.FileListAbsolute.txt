@@ -1,0 +1,7 @@
+D:\servidoraritmetica\servidoraritmetica\bin\Debug\servidoraritmetica.exe.config
+D:\servidoraritmetica\servidoraritmetica\bin\Debug\servidoraritmetica.exe
+D:\servidoraritmetica\servidoraritmetica\bin\Debug\servidoraritmetica.pdb
+D:\servidoraritmetica\servidoraritmetica\obj\Debug\servidoraritmetica.csprojAssemblyReference.cache
+D:\servidoraritmetica\servidoraritmetica\obj\Debug\servidoraritmetica.csproj.CoreCompileInputs.cache
+D:\servidoraritmetica\servidoraritmetica\obj\Debug\servidoraritmetica.exe
+D:\servidoraritmetica\servidoraritmetica\obj\Debug\servidoraritmetica.pdb

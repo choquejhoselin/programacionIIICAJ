@@ -1,0 +1,13 @@
+D:\programacion\Algebra\Algebra\bin\Debug\netcoreapp3.1\Algebra.exe
+D:\programacion\Algebra\Algebra\bin\Debug\netcoreapp3.1\Algebra.deps.json
+D:\programacion\Algebra\Algebra\bin\Debug\netcoreapp3.1\Algebra.runtimeconfig.json
+D:\programacion\Algebra\Algebra\bin\Debug\netcoreapp3.1\Algebra.runtimeconfig.dev.json
+D:\programacion\Algebra\Algebra\bin\Debug\netcoreapp3.1\Algebra.dll
+D:\programacion\Algebra\Algebra\bin\Debug\netcoreapp3.1\Algebra.pdb
+D:\programacion\Algebra\Algebra\obj\Debug\netcoreapp3.1\Algebra.csprojAssemblyReference.cache
+D:\programacion\Algebra\Algebra\obj\Debug\netcoreapp3.1\Algebra.AssemblyInfoInputs.cache
+D:\programacion\Algebra\Algebra\obj\Debug\netcoreapp3.1\Algebra.AssemblyInfo.cs
+D:\programacion\Algebra\Algebra\obj\Debug\netcoreapp3.1\Algebra.csproj.CoreCompileInputs.cache
+D:\programacion\Algebra\Algebra\obj\Debug\netcoreapp3.1\Algebra.dll
+D:\programacion\Algebra\Algebra\obj\Debug\netcoreapp3.1\Algebra.pdb
+D:\programacion\Algebra\Algebra\obj\Debug\netcoreapp3.1\Algebra.genruntimeconfig.cache

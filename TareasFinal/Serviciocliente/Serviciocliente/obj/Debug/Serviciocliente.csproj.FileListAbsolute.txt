@@ -1,0 +1,7 @@
+D:\Serviciocliente\Serviciocliente\bin\Debug\Serviciocliente.exe.config
+D:\Serviciocliente\Serviciocliente\bin\Debug\Serviciocliente.exe
+D:\Serviciocliente\Serviciocliente\bin\Debug\Serviciocliente.pdb
+D:\Serviciocliente\Serviciocliente\obj\Debug\Serviciocliente.csprojAssemblyReference.cache
+D:\Serviciocliente\Serviciocliente\obj\Debug\Serviciocliente.csproj.CoreCompileInputs.cache
+D:\Serviciocliente\Serviciocliente\obj\Debug\Serviciocliente.exe
+D:\Serviciocliente\Serviciocliente\obj\Debug\Serviciocliente.pdb

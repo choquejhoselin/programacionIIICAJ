@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E5lZui3efseOecZ5NrPY2cBnsKlQ29MPH1gu67fkLLuwRVXP3WyIn7oxZdEG56+NJBC6Dn5ITeqLzJze5wMoVA==",
+  "success": true,
+  "projectFilePath": "D:\\programacion\\Algebra\\Algebra\\Algebra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DANIEL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
