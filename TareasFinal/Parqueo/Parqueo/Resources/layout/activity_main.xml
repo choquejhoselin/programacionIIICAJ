@@ -1,0 +1,46 @@
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <TextView
+        android:text="Sistema de Parqueo"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:id="@+id/textIngresar" />
+    <Button
+        android:text="Ingresar al Parqueo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textIngresar"
+        android:id="@+id/BIngreso" />
+    <Button
+        android:text="Salida del Parqueo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/BIngreso"
+        android:id="@+id/BSalida" />
+    <Button
+        android:text="Mostrar Parqueo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/BSalida"
+        android:id="@+id/BMostrar" />
+    <Button
+        android:text="Historial de Funcionamiento"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/BMostrar"
+        android:id="@+id/Bhistorial"
+        android:layout_marginLeft="0.0dp"
+        android:layout_marginTop="0.0dp" />
+
+
+</RelativeLayout>
